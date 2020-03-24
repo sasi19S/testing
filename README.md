@@ -1,3 +1,2 @@
 # testing SAG
-SAG 1
-1
+SAG k
